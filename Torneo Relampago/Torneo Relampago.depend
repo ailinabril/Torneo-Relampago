@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774390293 source:c:\users\usuario\desktop\utn\programacion 2\funciones, arrays y punteros\funciones\ejercicios\torneo relampago\main.cpp
+	<iostream>
+	"funciones.h"
+
+1774389771 c:\users\usuario\desktop\utn\programacion 2\funciones, arrays y punteros\funciones\ejercicios\torneo relampago\funciones.h
+
+1774390671 source:c:\users\usuario\desktop\utn\programacion 2\funciones, arrays y punteros\funciones\ejercicios\torneo relampago\funciones.cpp
+	"funciones.h"
+	<iostream>
+
